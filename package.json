@@ -1,0 +1,8 @@
+{
+	"name": "sample-package",
+	"license": "MIT",
+	"dependencies": {
+		"react": "^16.0.0",
+		"react-router": "^6.2.1"
+	}
+}
